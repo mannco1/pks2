@@ -1,0 +1,62 @@
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Npgsql.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CopyComplete
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+/home/weirdcat/Nextcloud2/Предметы/Корпа/Сем4/pr2/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Npgsql.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\fmann\Desktop\vscode repos\c#\PKS-pr2\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
